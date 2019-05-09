@@ -1,1 +1,2 @@
-# stacked_area
+# Stacked Area chart
+-------------------------
